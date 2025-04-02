@@ -33,8 +33,8 @@ smtp_tls_CAfile = /etc/ssl/certs/ca-bundle.crt
 
 ## ✅ Step 3: Generate Gmail App Password
 
-- Enable 2-Step Verification: [https://myaccount.google.com/signinoptions/two-step-verification](https://myaccount.google.com/signinoptions/two-step-verification)
-- Generate App Password: [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
+- Enable 2-Step Verification: (https://myaccount.google.com/signinoptions/two-step-verification)
+- Generate App Password:(https://myaccount.google.com/apppasswords)
 - Copy the 16-character password provided, **remove all spaces**.
 
 ## ✅ Step 4: Add Gmail credentials to Postfix
